@@ -1,6 +1,6 @@
 mod utils;
-mod day1;
+mod day2;
 
 fn main() {
-    day1::second_puzzle();
+    day2::first_puzzle();
 }
